@@ -3,6 +3,6 @@ print("hello my  name is Ihtishaam")
 
 time.sleep(3)
 
-userinput = input("Whats your name?")
+userinput = input("Whats your name?\n")
 
-print("your name is \n", userinput)
+print("your name is", userinput) 
